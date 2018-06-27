@@ -1,0 +1,11 @@
+#footer {
+   position:absolute;
+   bottom:10px;
+margin: auto;
+width:97%;
+    padding: 10px;
+    text-align: center;
+   height:60px;   /* Height of the footer */
+   background:#FAE5D3;
+   outline: 3px double black;
+}
